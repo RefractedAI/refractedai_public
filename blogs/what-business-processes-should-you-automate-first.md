@@ -2,9 +2,13 @@
 
 The highest-ROI processes to automate are repetitive, rule-based tasks that consume more than 5 hours per week: invoice processing, lead follow-up, data entry between systems, appointment scheduling, and customer FAQ responses. These are the processes where automation delivers measurable results fastest, typically paying for themselves within 1 to 3 months. Start with one, prove the value, then expand.
 
+Here's the problem: 47% of SMBs say they plan to invest in AI automation in 2026, but only 18% have actually deployed automation in production. Most businesses are stuck in evaluation mode, overwhelmed by options. The difference between the companies that ship and the ones that stall? The ones that ship pick one process, automate it, and build from there.
+
 ## How to Identify Your Best Automation Candidates
 
 Not every process is worth automating. The ones that deliver real ROI share four characteristics:
+
+Small business owners report spending roughly 16 hours per week on repetitive administrative tasks. That's two full workdays. The question isn't whether to automate, it's which of those tasks to tackle first.
 
 1. **High frequency.** The task happens daily or multiple times per week. A process you run once a quarter isn't worth the setup cost.
 2. **Rule-based logic.** The steps follow a predictable pattern: if X happens, do Y. The less human judgment required, the easier it is to automate reliably.
